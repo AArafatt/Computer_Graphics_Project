@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bench 6 USSR (Game ready)
+* source:	https://sketchfab.com/3d-models/bench-6-ussr-game-ready-12e4fb18364a4590862eb871c60c6b45
+* author:	Nikita Filimonov (https://sketchfab.com/nikita3dvisions)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bench 6 USSR (Game ready)" (https://sketchfab.com/3d-models/bench-6-ussr-game-ready-12e4fb18364a4590862eb871c60c6b45) by Nikita Filimonov (https://sketchfab.com/nikita3dvisions) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

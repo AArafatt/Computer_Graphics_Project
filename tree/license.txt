@@ -1,0 +1,11 @@
+Model Information:
+* title:	American Elm Tree
+* source:	https://sketchfab.com/3d-models/american-elm-tree-3d605019f2e4422a98bed4875eb378c0
+* author:	saeed khalili (https://sketchfab.com/saeedkhalili.ir)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "American Elm Tree" (https://sketchfab.com/3d-models/american-elm-tree-3d605019f2e4422a98bed4875eb378c0) by saeed khalili (https://sketchfab.com/saeedkhalili.ir) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
